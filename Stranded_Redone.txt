@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"base"		"base"
+    "title"  "Stranded Redone"
+    "version"   "1"
+    "menusystem"	"1"
+
+    "author_name"   "Jayzor"
+    "author_email"  "jrj996@aol.com"
+    "author_url"    ""
+
+    "maps"  ""
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
