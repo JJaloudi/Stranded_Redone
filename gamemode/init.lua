@@ -109,7 +109,7 @@ concommand.Add("getdoor",function(pl)
 	end 
 end)
 
-db,err = tmysql.initialize("127.0.0.1","root","llamas11","control",3306)
+db,err = tmysql.initialize("127.0.0.1","root","","control",3306)
 hook.Add("Initialize","Do SQL",function()
 	if db then
 		print("[SQL] Database connected, prepared to retrieve information.")
